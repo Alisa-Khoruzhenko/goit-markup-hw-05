@@ -715,6 +715,7 @@ img {
 
 /* ============== END FOOTER ============== */
 
+/* ============== MODAL BACKDROP ============== */
 .backdrop {
     position: fixed;
     top: 0;
@@ -756,3 +757,4 @@ img {
     visibility: hidden;
     pointer-events: none;
 }
+/* ============== END MODAL BACKDROP ============== */
