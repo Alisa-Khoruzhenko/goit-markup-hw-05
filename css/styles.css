@@ -961,9 +961,7 @@ img {
 .modal-form-btn {
     padding: 10px 56px;
     align-self: center;
-    
     margin-bottom: 40px;
-
     font-weight: 700;
     font-size: 16px;
     line-height: 1.9;
@@ -973,7 +971,6 @@ img {
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1), border-radius 250ms cubic-bezier(0.4, 0, 0.2, 1), color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
-
     color: var(--main-color);
     background: var(--accent-color);
 }
